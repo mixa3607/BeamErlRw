@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageProjectUrl>https://github.com/mixa3607/BeamErlRw</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/mixa3607/BeamErlRw</RepositoryUrl>
+    <Version>0.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>
