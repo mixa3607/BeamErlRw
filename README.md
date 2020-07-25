@@ -1,3 +1,4 @@
+![.NET Core](https://github.com/mixa3607/BeamErlRw/workflows/.NET%20Core/badge.svg?branch=master)
 # BeamErlRw
 Library for read and write beam files or erlang Ext terms
 
