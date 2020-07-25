@@ -1,0 +1,38 @@
+﻿namespace BeamErlRw.Beam.Terms.Ext
+{
+    public enum EExtTermType:byte
+    {
+        Compressed = 80,
+        DistributionHeader = 68,
+        FragmentedDistributionHeader = 69,
+        AtomCacheReferenceIndex = 82,
+        UInt8 = 97,
+        Int32 = 98,
+        FloatString = 99,
+        Port = 102,
+        NewPort = 89,
+        Pid = 103,
+        NewPid = 88,
+        Tuple8 = 104,
+        Tuple32 = 105,
+        Map = 116,
+        Nil = 106,
+        String = 107,
+        List = 108,
+        Binary = 109,
+        Big8 = 110,
+        Big32 = 111,
+        Reference = 101,
+        NewReference = 114,
+        NewerReference = 90,
+        Function = 117,
+        NewFunction = 112,
+        Export = 113,
+        BitBinary = 77,
+        NewFloat64 = 70,
+        AtomUtf816 = 118,
+        AtomUtf88 = 119,
+        AtomLatin116 = 100,
+        AtomLatin18 = 115,
+    }
+}
